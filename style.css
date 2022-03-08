@@ -1,0 +1,72 @@
+body{
+    margin: 0;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.skip{
+    color: tomato;
+}
+.a1{
+    color: red;
+}
+.flx{
+    display: flex;
+    
+    
+    
+}
+.img{
+    width: 80%;
+    
+    padding-left: 180px;
+    
+}
+.div1{
+    padding-top: 65px;
+    padding-left: 30px;
+}
+.h1{
+    font-size: 50px;
+}
+.p1{
+    font-size: 20px;
+
+}
+.or{
+    text-decoration: none;
+    background-image: linear-gradient(orange, tomato);
+    color: white;
+    padding: 10px 15px;
+    border-radius: 25px;
+}
+.tpb{
+    background-image: url(images/shapes/Frame\ 56.jpg);
+    background-repeat: no-repeat;
+    background-position: left;
+    padding: 0px;
+    
+}
+.img1{
+    
+    width: 80%;
+    padding-right: 20px;
+}
+.divabme{
+    padding: 60px 40px 0 0;
+}
+.sc2{
+    padding: 40px 40px 20px 20px;
+
+}
+.ABME{
+    font-size: 40px;
+}
+.ABMP{
+    font-size: 18px;
+    font-weight: lighter;
+    padding-right: 150px;
+}
+.ASR{
+    font-weight: 600;
+    color: tomato;
+}
